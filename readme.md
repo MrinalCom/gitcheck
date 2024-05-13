@@ -4,7 +4,7 @@ git config --global user.email "Your Email"
 
 
 -->>>then second is to clone repository 
-git clone https://github.com/shubham123456789/s
+git clone https://github.com/MrinalCom/s
 
 
 -->>>third is to go into that directory
